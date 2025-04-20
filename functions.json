@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fn_1745125285",
+    "name": "echo",
+    "wasm_path": "./wasm_example.wasm",
+    "trigger_subjects": [
+      "hello.world"
+    ]
+  },
+  {
+    "id": "fn_1745125000",
+    "name": "echo",
+    "wasm_path": "./wasm_example.wasm",
+    "trigger_subjects": [
+      "hello.world"
+    ]
+  }
+]
